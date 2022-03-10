@@ -1,0 +1,1 @@
+export const IMAGE_SERVER_URL = "http://47.116.67.189:8887/static"

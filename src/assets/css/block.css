@@ -1,0 +1,12 @@
+.block:first-of-type .block-title {
+  padding-top: 20px;
+}
+
+.block-title {
+  margin: 0;
+  padding: 32px 16px 16px;
+  color: rgba(69, 90, 100, 0.6);
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
